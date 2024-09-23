@@ -32,7 +32,8 @@
                   android.flutter.enable = true;
 
                   enterShell = ''
-                    Environment with Android Tools and Flutter.
+                    echo Environment with Android Tools and Flutter.
+                    echo Don't forget to set flutter paths.
                   '';
 
                 }
